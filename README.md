@@ -27,7 +27,6 @@
 - 🚀 Involved in organizing hackathons and technical workshops
 - 💬 Ask me about **JavaScript**, **Node.js**, **Express.js**, and **Web Development**
 - 📫 How to reach me: **nikhil.developer03@gmail.com**
-- ⚡ Fun fact: I love building educational platforms that make learning accessible!
 
 ## Skill Set:
 
@@ -95,13 +94,4 @@
   <img src="https://komarev.com/ghpvc/?username=NikhiL-Developer123&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
----
 
-<div align="center">
-  
-### 💭 Quote of the Day
-*"The best way to predict the future is to create it."* - Peter Drucker
-
-**Thanks for visiting my profile! Let's build something amazing together! 🚀**
-
-</div>
