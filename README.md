@@ -68,26 +68,6 @@
 </td>
 </tr></table>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikhiL-Developer123&show_icons=true&theme=radical&hide_border=true" alt="Nikhil's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhiL-Developer123&theme=radical&hide_border=true" alt="Nikhil's GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhiL-Developer123&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NikhiL-Developer123&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
 ## 💻 Coding Platforms
 
 <div align="center">
@@ -95,14 +75,6 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-username)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/your-username)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your-username)
-
-</div>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Genius School Management](https://github-readme-stats.vercel.app/api/pin/?username=NikhiL-Developer123&repo=genius&theme=radical&hide_border=true)](https://github.com/NikhiL-Developer123/genius)
 
 </div>
 
