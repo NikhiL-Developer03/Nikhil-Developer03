@@ -14,10 +14,6 @@
                                  \/__/         \/__/         \/__/     \/__/     \/__/    
 </pre>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Node.js+%7C+Express+%7C+MongoDB;Always+learning+new+technologies;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</div>
-
 ## About Me:
 
 - 🔭 Aspiring software developer with a focus on full-stack development
