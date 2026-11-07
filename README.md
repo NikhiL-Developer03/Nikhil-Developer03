@@ -1,93 +1,21 @@
-# Hi, I'm Nikhil 
+# Hi, I'm Nikhil 👋
 
-<pre>
-                                  ___           ___           ___       ___       ___     
-                                 /\__\         /\  \         /\__\     /\__\     /\  \    
-                                /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
-                               /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
-                              /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
-                             /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
-                             \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
-                                  \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
-                                  /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
-                                 /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
-                                 \/__/         \/__/         \/__/     \/__/     \/__/    
-</pre>
+Aspiring DevOps Engineer with a full-stack web background, now building skills in Linux, Git, AWS and automation.
 
-## About Me:
+## 🔭 Currently
+- Completing the [#90DaysOfDevOps](https://github.com/NikhiL-Developer03/90DaysOfDevOps) challenge by TrainWithShubham
+- Next up: AWS, CI/CD and containers
 
-- 🔭 Aspiring software developer with a focus on full-stack development
-- 🌱 Proficient in React.js, Node.js, and MongoDB
-- ☁️ Experienced in cloud engineering, managing Google Workspace
-- 🧠 Strong problem-solving skills, active on LeetCode and GFG
-- 🚀 Involved in organizing hackathons and technical workshops
-- 💬 Ask me about **JavaScript**, **Node.js**, **Express.js**, and **Web Development**
-- 📫 How to reach me: **nikhil.developer03@gmail.com**
+## 🛠 Skills
+**DevOps:** <img src="https://skillicons.dev/icons?i=linux,bash,git,github,aws,python" align="center" />
 
-## Skill Set:
+**Web:** <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js" align="center" />
 
-<table><tr><td valign="top" width="25%">
+## 📂 Key Repos
+- [90DaysOfDevOps](https://github.com/NikhiL-Developer03/90DaysOfDevOps) – daily challenge submissions
+- [shell-scripts](https://github.com/NikhiL-Developer03/shell-scripts) – automation scripts
+- [python-scripts](https://github.com/NikhiL-Developer03/python-scripts) – Python practice and projects
+- [devops-notes](https://github.com/NikhiL-Developer03/devops-notes) – cheat sheets and references
 
-### Frontend  
-<a href="https://github.com/NikhiL-Developer123">
-<div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js&perline=4" /> 
-</div>
-</a>
- </td><td valign="top" width="25%">
-        
-### Languages
-<a href="https://github.com/NikhiL-Developer123">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python,&perline=4" /> 
-</div>
-</a>
-
-</td><td valign="top" width="25%">
-
-### Backend & Database
-<a href="https://github.com/NikhiL-Developer123">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=4" /> 
-</div>
-</a>
-
-</td><td valign="top" width="25%">
-  
-### Tools & Others
-<a href="https://github.com/NikhiL-Developer123">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,discord&perline=4" /> 
-</div>
-</a>
-</td>
-</tr></table>
-
-## 💻 Coding Platforms
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-username)
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/your-username)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your-username)
-
-</div>
-
-## 🤝 Connect with me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhil.developer03@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/NikhiL-Developer123](https://react-portfolio-nikhil.vercel.app/))
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)
-
-</div>
-
-## 📈 Profile Views
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NikhiL-Developer123&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
-
-
+## 📫 Reach me
+[LinkedIn](https://www.linkedin.com/in/nikhil-web-developer/) · [Portfolio](https://react-portfolio-nikhil.vercel.app/) · [X](https://x.com/Nice_Nikhil03) · nikhil.developer03@gmail.com
