@@ -6,11 +6,33 @@ Aspiring DevOps Engineer with a full-stack web background, now building skills i
 - Completing the [#90DaysOfDevOps](https://github.com/NikhiL-Developer03/90DaysOfDevOps) challenge by TrainWithShubham
 - Next up: AWS, CI/CD and containers
 
-## 🛠 Skills
-**DevOps:** <img src="https://skillicons.dev/icons?i=linux,bash,git,github,aws,python" align="center" />
+## 🛠 Skill Set
 
-**Web:** <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js" align="center" />
+<table><tr><td valign="top" width="50%">
 
+### ⚙️ DevOps
+<div align="center">
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,aws,python&perline=6" />
+</div>
+
+**Learning**
+<div align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform&perline=6" />
+</div>
+
+</td><td valign="top" width="50%">
+
+### 🌐 Web Development
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react&perline=6" />
+</div>
+
+**Backend & Database**
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=6" />
+</div>
+
+</td></tr></table>
 ## 📂 Key Repos
 - [90DaysOfDevOps](https://github.com/NikhiL-Developer03/90DaysOfDevOps) – daily challenge submissions
 - [shell-scripts](https://github.com/NikhiL-Developer03/shell-scripts) – automation scripts
